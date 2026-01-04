@@ -1,6 +1,7 @@
 # 小红书MCP服务器 - Node.js版本
 
 基于现代化Node.js技术栈的小红书MCP（Model Context Protocol）服务器，提供企业级多账号矩阵管理和反风控功能。
+** 暂停维护 **
 
 ## 🌟 核心特性
 
